@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "64a1f3e2b1c4d5e6f7g8h9i0j",
+        "tipo": "Filamento",
+        "especificacoes": {
+            "marca": "bambulab",
+            "tipo": "PLA",
+            "modelo": "PLA Basic",
+            "corDeCatalogo": "Indigo Purple",
+            "cor": "Roxo Escuro",
+            "medidas": {
+                "diametro": 1.75,
+                "pesos": {
+                    "unidade": "g",
+                    "liquidoNovo": 1000,
+                    "bobinaVazia": 246,
+                    "liquidoDisponivel": 600
+                }
+            },
+            "aquisicao": {
+                "data": "2026-08-24",
+                "fornecedor": "3D Lab Supplies",
+                "idFornecedor": "3DLS123",
+                "docFiscal": "NF123456789",
+                "valor": 120.00
+            }
+        }
+    }
+]

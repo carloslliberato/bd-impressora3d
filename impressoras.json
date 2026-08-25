@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "nome": "A1 monocor 1",
+        "marca": "bambulab",
+        "modelo": "A1",
+        "horasTotais": 7000,
+        "status": "EM USO",
+        "horasDesdeUltimaManutencao": 200,
+        "historicoManutencao": [
+            {
+                "data": "2026-08-01",
+                "tipo": "Preventiva",
+                "descricao": "Limpeza e lubrificação das partes móveis.",
+                "responsavel": "Técnico João"
+            },
+            {
+                "data": "2026-07-15",
+                "tipo": "Corretiva",
+                "descricao": "Substituição do bico extrusor.",
+                "responsavel": "Técnico Maria"
+            }
+        ]
+    }
+]
