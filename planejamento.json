@@ -1,0 +1,53 @@
+[
+    {
+        "_id": "84n38c348uc3",
+        "descricao": "Boneco XPTO",
+        "filamentos": [
+            {
+                "id": "4a1f7g8h9i0j",
+                "tipo": "PLA",
+                "cor": "Roxo Escuro",
+                "unidade": "g",
+                "quantidadeNecessaria": 10,
+                "filamentoMaiorPreco": {
+                    "id": "64a1f3e2b1c4d5e6f7g8h9i0j",
+                    "marca": "bambulab",
+                    "unidade": "g",
+                    "liquidoNovo": 1000,
+                    "valor": 120.0,
+                    "valorGrama": 0.120
+                },
+                "custoFilamento": 1.20
+            }
+        ],
+        "estimativa_custo_energia": {
+            "tarifaKwh": 0.90,
+            "potenciaImpressoraKw": 0.15,
+            "tempoImpressaoHoras": 10.0,
+            "custoEnergiaTotal": 1.35
+        },
+        "tempoEstimadoImpressao": "03:00:00",
+        "pesoEmGramas": 10,
+        "custoTotalFilamentos": 100.10,
+        "custoMontagem": [
+            {
+                "descricao": "",
+                "custo": 0.0
+            }
+        ],
+        "custoAcabamento": [
+            {
+                "descricao": "",
+                "custo": 0.0
+            }
+        ],
+        "custoEmbalagem": [
+            {
+                "descricao": "",
+                "custo": 0.0
+            }
+        ],
+        "precoEstimadoDeVenda": 100,
+        "valorCotaLicenca": 0
+    }
+]
